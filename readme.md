@@ -21,3 +21,5 @@ A modern, responsive portfolio website built with Tailwind CSS.
 ## 🏗️ Installation
 
 1. Simply clone or download the repository:
+2. Downlaod And Install Node Package Manager 
+3. Extentions => Tailwind CSS IntelliSense
